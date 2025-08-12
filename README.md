@@ -50,23 +50,7 @@ This project analyzes anthropometric data (body measurements) for adult males an
 
 ---
 
-## 📷 Key Visualizations
 
-### 📦 Boxplot – Weight Distribution by Gender
-
-![Weight Boxplot](images/boxplot_weight_by_gender.png)
-
-### 🔁 Pairplots – Male and Female Data
-
-**Females:**
-
-![Pairplot Female](images/pairplot_female.png)
-
-**Males:**
-
-![Pairplot Male](images/pairplot_male.png)
-
----
 
 ## 🧪 Technologies Used
 
